@@ -1,5 +1,11 @@
 {
-  "global": {},
+  "global": {
+    "aaaa": {
+      "value": "4",
+      "type": "borderWidth",
+      "description": "sss"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
