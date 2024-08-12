@@ -1,9 +1,8 @@
 {
   "global": {
-    "aaaa": {
-      "value": "4",
-      "type": "borderWidth",
-      "description": "sss"
+    "my font": {
+      "value": "24px",
+      "type": "fontSizes"
     }
   },
   "$themes": [],
